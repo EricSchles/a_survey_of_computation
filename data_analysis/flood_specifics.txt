@@ -1,0 +1,12 @@
+* http://berkeleyearth.org/simmod-a-simple-python-based-climate-model/
+-- assessing the long term trends of floods
+
+* http://www.nssl.noaa.gov/education/svrwx101/floods/forecasting/
+-- flooding 101
+
+* https://www.nap.edu/read/1840/chapter/8
+-- natural disaster prediction
+
+* https://earthzine.org/2017/07/17/incorporating-python-scripting-to-conduct-geospatial-analysis-of-flooding-in-the-mississippi-river-basin/
+
+* http://blog.revolutionanalytics.com/2012/04/NOAA-R-river-flooding.html

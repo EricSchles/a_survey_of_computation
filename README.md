@@ -1,0 +1,15 @@
+A survey of computation
+	* The high level of computer science
+		* History of machines - alan turing example
+			~ 5-7 minutes
+		* Computer science as a spoken language
+			* Nouns
+			* adjectives
+			* verbs
+			* adverbs
+		~ 10 minutes
+		* Examples
+			* the example of nouns, verbs, adjectives, adverbs within X:
+				~ 20-30 minutes
+				* X = data science
+
